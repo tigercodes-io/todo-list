@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "node --watch api/server.js"
+  },
+  "type": "module"
+}
