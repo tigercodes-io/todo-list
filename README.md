@@ -1,3 +1,3 @@
 # Todo List App
 
-O mínimo que você precisa saber para não ser burro no front end - Criando um Todo App com JavaScript. [Veja mais](https://www.youtube.com/watch?v=x6jPQkUVeWE).
+Pare de ser BURRO na programação - Aprenda como criar um TODO app com JavaScript. [Veja mais](https://www.youtube.com/watch?v=x6jPQkUVeWE).
